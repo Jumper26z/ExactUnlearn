@@ -16,8 +16,8 @@ Movielesn-100k：https://grouplens.org/datasets/movielens/100k/
 Amazon-Bookshttps://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data
 
 # Directory Structure
-- `/CCGU/`: Contains the code and resources for the "Contrastive Clustering Graph Unlearning" model.
-- `/RaCo/`: Contains code for the "Rapid Collaborative Machine Unlearning" project.
+- `/CCGU/`: Contains the code and resources for the Contrastive Clustering Graph Unlearning model
+- `/RaCo/`: Contains code for the Rapid Collaborative Machine Unlearning project
 
 # Environment Setup
 
