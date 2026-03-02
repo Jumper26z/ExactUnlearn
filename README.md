@@ -27,7 +27,6 @@ RTX 4060(8G)
 - **Python**: 3.6
 - **PyTorch**: 
   - `torch==1.10.2+cu113`
-  - CUDA support: `cuda-cccl`, `cuda-cudart`, `cuda-cupti`, `cuda-libraries`, `cuda-nvrtc`, `cuda-runtime`
 - **Jupyter**: 
   - `jupyter-client==7.1.2`
   - `jupyterlab==3.2.1`
@@ -44,14 +43,7 @@ RTX 4060(8G)
 **CCGU:**
 - **Python**: 3.6
 - **PyTorch**:
-  - `torch==1.10.2+cu113` (CUDA support)
-  - CUDA dependencies:
-    - `cuda-cccl`
-    - `cuda-cudart`
-    - `cuda-cupti`
-    - `cuda-libraries`
-    - `cuda-nvrtc`
-    - `cuda-runtime`
+  - `torch==1.10.2+cu113` 
   
 - **Jupyter**:
   - `jupyter-client==7.1.2`
@@ -67,10 +59,7 @@ RTX 4060(8G)
   - `requests==2.27.1`
   - `pyyaml==6.0.1`
 
-Install PyTorch:
-```bash
-pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
-```
+
 
 Install PyTorch Geometric Dependencies:
 ```bash
