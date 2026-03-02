@@ -19,7 +19,9 @@ Amazon-Bookshttps://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/d
 
 **Hardware Environment**: 
 
-RTX 4060(8G)
+12th Gen Intel(R)Core(TM)i5-12400F2.50 GHz
+
+NVIDIA GeForce RTX 4060 (8 GB)
 
 **Software Environment:**
 
